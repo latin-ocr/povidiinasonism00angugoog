@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./povidiinasonism00angugoog_0024.png"; bbox 0 0 3030 5168; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 120 241 1325 475">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 120 241 1325 475">
+     <span class='ocr_line' id='line_1_1' title="bbox 209 241 909 302; baseline 0.007 -6"><span class='ocrx_word' id='word_1_1' title='bbox 209 242 256 297; x_wconf 79' lang='lat'><em>12</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 545 241 582 300; x_wconf 83' lang='lat' dir='ltr'><em>P.</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 600 242 727 301; x_wconf 75' lang='lat' dir='ltr'>ovmn</span> <span class='ocrx_word' id='word_1_4' title='bbox 745 242 909 302; x_wconf 70' lang='lat' dir='ltr'>NASONIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 120 357 1325 475; baseline 0 -35"><span class='ocrx_word' id='word_1_5' title='bbox 120 359 270 444; x_wconf 86' lang='lat' dir='ltr'><em>Donec</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 289 357 399 443; x_wconf 73' lang='lat' dir='ltr'><em>idem</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 411 389 546 471; x_wconf 84' lang='lat' dir='ltr'><em>passa</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 565 379 638 445; x_wconf 82' lang='lat' dir='ltr'><em>est.</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 657 362 733 445; x_wconf 88' lang='lat' dir='ltr'><em>An</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 750 393 859 475; x_wconf 81' lang='lat' dir='ltr'><em>quae</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 871 390 998 473; x_wconf 76' lang='lat' dir='ltr'><em>poma</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1016 362 1113 442; x_wconf 81' lang='lat' dir='ltr'><em>alba</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1122 361 1291 469; x_wconf 62' lang='lat' dir='ltr'><em>serebat</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1304 362 1325 467; x_wconf 72' lang='grc'><em>,’</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1520 5168">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1520 5168">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1520 5168; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1520 5168; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

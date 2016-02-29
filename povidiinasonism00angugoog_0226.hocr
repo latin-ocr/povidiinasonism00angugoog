@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./povidiinasonism00angugoog_0226.png"; bbox 0 0 865 1469; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 90 140 738 1282">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 90 140 738 1282">
+     <span class='ocr_line' id='line_1_1' title="bbox 90 140 738 1282"><span class='ocrx_word' id='word_1_1' title='bbox 90 140 738 1282; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 66 486 89 954">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 66 486 89 954">
+     <span class='ocr_line' id='line_1_2' title="bbox 66 486 89 954; baseline 58.5 -468"><span class='ocrx_word' id='word_1_2' title='bbox 66 486 82 646; x_wconf 53' lang='lat' dir='ltr'><strong>&gt;fl=ffl=3ffluu&gt;</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 69 670 85 787; x_wconf 48' lang='lat' dir='ltr'><strong>F-Uffiaff</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 72 807 86 839; x_wconf 66' lang='lat' dir='ltr'><strong>e&gt;</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 71 861 89 954; x_wconf 57' lang='lat' dir='ltr'><strong>»vx-nune</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

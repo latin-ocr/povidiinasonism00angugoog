@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./povidiinasonism00angugoog_0026.png"; bbox 0 0 3030 5168; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 237 203 935 294">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 237 203 935 294">
+     <span class='ocr_line' id='line_1_1' title="bbox 237 203 935 294; baseline 0.003 -3"><span class='ocrx_word' id='word_1_1' title='bbox 237 203 286 291; x_wconf 71' lang='lat'><em>16</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 566 233 935 294; x_wconf 65' lang='lat' dir='ltr'><em>mammam</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 148 326 1366 573">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 148 326 1366 573">
+     <span class='ocr_line' id='line_1_2' title="bbox 148 326 1366 464; baseline 0.004 -36"><span class='ocrx_word' id='word_1_3' title='bbox 148 349 269 430; x_wconf 78' lang='lat' dir='ltr'><em>Haec</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 274 349 433 458; x_wconf 79' lang='lat' dir='ltr'><em>placet:</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 445 326 577 447; x_wconf 55' lang='lat' dir='ltr'><strong><em>habe,</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 592 351 788 460; x_wconf 75' lang='lat' dir='ltr'><em>quoniam</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 805 348 1159 464; x_wconf 76' lang='lat' dir='ltr'><em>vulgan&#39;ssabulo</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1177 366 1366 443; x_wconf 76' lang='lat' dir='ltr'><em>nonest,</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 149 461 1154 573; baseline 0 -29"><span class='ocrx_word' id='word_1_9' title='bbox 149 462 179 544; x_wconf 83' lang='lat'><em>&#39;1</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 184 462 321 544; x_wconf 81' lang='lat' dir='ltr'><em>’alihus</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 338 491 434 546; x_wconf 76' lang='lat' dir='ltr'><em>orsa</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 450 461 611 563; x_wconf 83' lang='lat' dir='ltr'><em>modis,</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 629 464 733 547; x_wconf 75' lang='lat' dir='ltr'><em>lami</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 752 463 930 571; x_wconf 78' lang='lat' dir='ltr'><em>suajila</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 946 478 1154 573; x_wconf 75' lang='lat' dir='ltr'><em>sequente.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1520 5168">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1520 5168">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1520 5168; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1520 5168; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

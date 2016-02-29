@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./povidiinasonism00angugoog_0036.png"; bbox 0 0 3030 5168; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 238 192 932 289">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 238 192 932 289">
+     <span class='ocr_line' id='line_1_1' title="bbox 238 192 932 289; baseline -0.001 -24"><span class='ocrx_word' id='word_1_1' title='bbox 238 192 292 289; x_wconf 73' lang='lat'><em>24</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 571 205 606 267; x_wconf 71' lang='lat' dir='ltr'><em>P.</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 625 206 752 268; x_wconf 79' lang='lat' dir='ltr'><strong>ovum</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 769 204 932 269; x_wconf 70' lang='lat' dir='ltr'><strong>usoms</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 155 324 1357 555">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 155 324 1357 555">
+     <span class='ocr_line' id='line_1_2' title="bbox 155 324 1050 439; baseline -0.002 -27"><span class='ocrx_word' id='word_1_5' title='bbox 155 327 219 412; x_wconf 83' lang='lat' dir='ltr'><em>Et</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 237 329 328 415; x_wconf 79' lang='lat' dir='ltr'><em>voci</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 335 328 504 438; x_wconf 79' lang='lat' dir='ltr'><em>fecistis</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 522 329 620 414; x_wconf 80' lang='lat' dir='ltr'><em>iter:</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 640 346 828 439; x_wconf 80' lang='lat' dir='ltr'><em>tutaeque</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 843 353 925 438; x_wconf 81' lang='lat' dir='ltr'><em>per</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 938 324 1050 410; x_wconf 81' lang='lat' dir='ltr'><em>illud</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 155 439 1357 555; baseline 0.003 -32"><span class='ocrx_word' id='word_1_12' title='bbox 155 442 369 523; x_wconf 77' lang='lat' dir='ltr'><em>Murmure</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 386 439 617 524; x_wconf 81' lang='lat' dir='ltr'><em>blanditiae</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 633 443 801 525; x_wconf 70' lang='lat' dir='ltr'><em>minimo</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 817 441 995 525; x_wconf 63' lang='lat' dir='ltr'><em>transire</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1011 442 1209 526; x_wconf 77' lang='lat' dir='ltr'><em>solebant.</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1305 472 1357 555; x_wconf 86' lang='lat'><em>7⁰</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1520 5168">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1520 5168">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1520 5168; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1520 5168; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

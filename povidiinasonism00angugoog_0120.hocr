@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./povidiinasonism00angugoog_0120.png"; bbox 0 0 3030 5168; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 251 214 996 285">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 251 214 996 285">
+     <span class='ocr_line' id='line_1_1' title="bbox 251 214 996 285; baseline 0.007 -6"><span class='ocrx_word' id='word_1_1' title='bbox 251 220 329 280; x_wconf 78' lang='lat'><strong><em>112</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 628 222 665 285; x_wconf 80' lang='grc' dir='ltr'><strong><em>Ρ.</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 682 214 813 283; x_wconf 70' lang='lat' dir='ltr'><strong>omli</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 830 218 996 283; x_wconf 71' lang='lat' dir='ltr'><strong><em>mom</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 159 338 1291 567">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 159 338 1291 567">
+     <span class='ocr_line' id='line_1_2' title="bbox 159 338 1291 451; baseline 0.004 -26"><span class='ocrx_word' id='word_1_5' title='bbox 159 341 237 426; x_wconf 79' lang='lat' dir='ltr'><strong><em>Bis</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 251 368 333 424; x_wconf 71' lang='lat' dir='ltr'><strong><em>sex</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 348 338 613 429; x_wconf 69' lang='lat' dir='ltr'><strong><em>Iaucothoe‘n</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 619 340 814 451; x_wconf 81' lang='lat' dir='ltr'><em>famulas</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 832 339 895 424; x_wconf 78' lang='lat' dir='ltr'><strong><em>ad</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 908 342 1056 425; x_wconf 79' lang='lat' dir='ltr'><em>limina</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1067 347 1201 429; x_wconf 80' lang='lat' dir='ltr'><strong><em>cernit</em></strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1220 372 1291 430; x_wconf 74' lang='lat'><strong><em>220</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 160 452 1057 567; baseline -0.004 -21"><span class='ocrx_word' id='word_1_13' title='bbox 160 454 319 546; x_wconf 76' lang='lat' dir='ltr'><em>Laevia</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 334 470 496 546; x_wconf 72' lang='lat' dir='ltr'><em>versato</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 510 452 730 546; x_wconf 77' lang='lat' dir='ltr'><strong><em>ducentem</em></strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 745 454 929 543; x_wconf 69' lang='lat' dir='ltr'><em>stamma</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 935 455 1057 567; x_wconf 77' lang='lat' dir='ltr'><em>fuso.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1520 5168">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1520 5168">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1520 5168; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1520 5168; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

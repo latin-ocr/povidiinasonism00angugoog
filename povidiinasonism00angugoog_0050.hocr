@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./povidiinasonism00angugoog_0050.png"; bbox 0 0 3030 5168; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 238 214 940 301">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 238 214 940 301">
+     <span class='ocr_line' id='line_1_1' title="bbox 238 214 940 301; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 238 214 292 301; x_wconf 78' lang='lat'><em>38</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 572 242 607 301; x_wconf 67' lang='grc' dir='ltr'><em>ι).</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 628 238 753 299; x_wconf 74' lang='lat' dir='ltr'><em>0an</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 773 241 940 301; x_wconf 72' lang='lat' dir='ltr'><strong>msoms</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 151 357 1389 589">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 151 357 1389 589">
+     <span class='ocr_line' id='line_1_2' title="bbox 151 357 1366 472; baseline 0.005 -31"><span class='ocrx_word' id='word_1_5' title='bbox 151 357 316 441; x_wconf 83' lang='lat' dir='ltr'><em>Fallere</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 333 359 544 458; x_wconf 79' lang='lat' dir='ltr'><em>custodes,</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 553 362 798 472; x_wconf 78' lang='lat' dir='ltr'><em>foribusque</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 816 357 1019 443; x_wconf 63' lang='lat' dir='ltr'><em>excedere</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1038 376 1207 445; x_wconf 79' lang='lat' dir='ltr'><em>tentent.</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1315 361 1366 451; x_wconf 84' lang='lat'><em>85</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 155 472 1389 589; baseline 0.011 -38"><span class='ocrx_word' id='word_1_11' title='bbox 155 472 371 586; x_wconf 75' lang='lat' dir='ltr'><em>Quumque</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 384 474 508 558; x_wconf 82' lang='lat' dir='ltr'><em>domo</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 521 474 716 575; x_wconf 69' lang='lat' dir='ltr'><em>exierint,</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 726 476 837 556; x_wconf 79' lang='lat' dir='ltr'><em>urbis</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 852 502 1013 587; x_wconf 75' lang='lat' dir='ltr'><em>qnoque</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1024 490 1137 556; x_wconf 78' lang='lat' dir='ltr'><em>tecta</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1144 474 1389 589; x_wconf 78' lang='lat' dir='ltr'><em>relinquant.-</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1520 5168">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1520 5168">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1520 5168; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1520 5168; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
